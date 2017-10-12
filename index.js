@@ -9,5 +9,5 @@ function logWhisper(string) {console.log(string.toLowerCase())}
 
 function sayHiToGrandma(string){ console.log ("Hi Grandma".toLowerCase())
 return ("I can't hear you!"); }
-function sayHiToGrandma(string) {console.log("Hi Grandma".toUpperCase()) 
+function sayHiToGrandma(string) {console.log("Hi Grandma".toUpperCase())
 return ("YES INDEED");}
